@@ -8,6 +8,7 @@ Current works
 - AI
 - Astrophysics 
 - Quantum Computing
+- Quantum Machine Learning
 
 Learning
 =====
