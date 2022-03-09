@@ -6,7 +6,6 @@ Welcome in my GitHub.
 Current works
 =====
 - AI
-- Astrophysics 
 - Quantum Computing
 - Quantum Machine Learning
 
@@ -18,6 +17,9 @@ Learning
 - Pennylane
 - Tensorflow-quantum
 - GNN
+- Graph Representation Learning 
+- Reinforcement Learning
+- Multi-agent Reinforcement Learning 
 
 Contact
 =====
