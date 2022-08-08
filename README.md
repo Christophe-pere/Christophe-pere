@@ -30,3 +30,4 @@ Contact
 - [researchgate](researchgate.net/profile/Christophe-Pere-2) 
 - [arxiv](https://arxiv.org/search/?searchtype=author&query=Pere%2C+C) 
 - [orcid](https://orcid.org/0000-0002-8902-787X) 
+- [Qiskit Advocate, IBM quantum](https://qiskit.org/advocates/)
