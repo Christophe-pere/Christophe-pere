@@ -14,11 +14,7 @@ Current works
 
 Learning
 =====
-- Quantum Computing
-- Quantum Machine Learning
-- Qiskit
-- Pennylane
-- Tensorflow-quantum
+Applied on quantum: 
 - GNN
 - Graph Representation Learning 
 - Reinforcement Learning
