@@ -3,6 +3,9 @@
 Welcome in my GitHub. 
 =====
 
+I'm a Quantum Machine Learning researcher working on encoding, kernels, video games and reinforcement learning with quantum computing. 
+
+
 Current works
 =====
 - AI
