@@ -11,6 +11,7 @@ Current works
 - AI
 - Quantum Computing
 - Quantum Machine Learning
+- Doing Research in Public (DRiP) project
 
 Learning
 =====
